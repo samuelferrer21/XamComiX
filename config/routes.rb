@@ -1,9 +1,6 @@
 Rails.application.routes.draw do
-  get 'comics/index'
+  # Routes for Comics
+  root to: 'comics#index'
   get 'comics/show'
-  # Define your application routes per the DSL in https://guides.rubyonrails.org/routing.html
-
-  # Defines the root path route ("/")
-  # root "articles#index"
   resources :comics, only: [:index, :show]
 end
