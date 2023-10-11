@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  title: MyString
+  release_date: 2023-10-11
+  cover_price: 1.5
+  publisher: one
+  writer: one
+  edition: one
+  format: one
+
+two:
+  title: MyString
+  release_date: 2023-10-11
+  cover_price: 1.5
+  publisher: two
+  writer: two
+  edition: two
+  format: two
