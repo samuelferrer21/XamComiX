@@ -1,0 +1,7 @@
+<h1><%=@writer.first_name + " " + @writer.last_name%></h1>
+<p>List of comics he has worked on</p>
+<ul>
+<% @writer.comics.each do |comic|%>
+<li><%= link_to comic.title, comic%> <%=comic.publisher.name%> </li>
+<%end%>
+</ul>

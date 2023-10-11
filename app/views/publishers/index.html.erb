@@ -1,0 +1,11 @@
+<h1>Publishers</h1>
+<p>Publishers in the collection</p>
+<div>
+  <ul>
+    <%@publishers.each do |publisher|%>
+    <li>
+        <%=link_to publisher.name, publisher%> (<%=publisher.founded%>)
+     </li>
+     <%end%>
+  </ul>
+</div>
