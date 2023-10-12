@@ -1,0 +1,11 @@
+<h1>Current Writers</h1>
+<p>Writers currently in the collection</p>
+<div>
+  <ul>
+    <%@writers.each do |writer|%>
+    <li>
+        <%=link_to writer.first_name + " " + writer.last_name, writer%>
+     </li>
+     <%end%>
+  </ul>
+</div>

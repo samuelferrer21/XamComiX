@@ -1,4 +1,4 @@
 class Writer < ApplicationRecord
   has_many :comics, dependent: :destroy
-  valdates :writer, presence: true
+  validates :writer, presence: true
 end
