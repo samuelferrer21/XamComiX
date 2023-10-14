@@ -1,2 +1,26 @@
-<h1>Publishers#show</h1>
-<p>Find me in app/views/publishers/show.html.erb</p>
+<h1><%=@publisher.name%></h1>
+<p>List of comics the publisher has released in the collection.</p>
+<table class="table table-sm">
+  <thead>
+      <tr>
+        <th scope="col">Title</th>
+        <th scope="col">Release</th>
+        <th scope="col">Price</th>
+        <th scope="col">Writer</th>
+        <th scope="col">Edition</th>
+        <th scope="col">Format</th>
+      </tr>
+      <tbody class="table-group-divider ">
+      <%@publisher.comics.each do |comic|%>
+      <tr>
+        <td><%=link_to comic.title, comic%></td>
+        <td><%=comic.release_date%></td>
+        <td>$<%=comic.cover_price%></td>
+        <td><%=link_to comic.writer.first_name, :writer%></td>
+        <td><%=comic.edition.edition%></td>
+        <td><%=comic.format.format%></td>
+      </tr>
+      <%end%>
+     </tbody>
+  </thead>
+</table>

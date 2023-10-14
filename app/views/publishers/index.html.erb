@@ -1,11 +1,21 @@
 <h1>Publishers</h1>
 <p>Publishers in the collection</p>
-<div>
-  <ul>
-    <%@publishers.each do |publisher|%>
-    <li>
-        <%=link_to publisher.name, publisher%> (<%=publisher.founded%>)
-     </li>
-     <%end%>
-  </ul>
-</div>
+
+<table class="table table-sm">
+  <thead>
+      <tr>
+        <th scope="col">Publisher</th>
+        <th scope="col">Founded</th>
+        <th scope="col"># in Collection</th>
+      </tr>
+      <tbody class="table-group-divider">
+      <%@publishers.each do |publisher|%>
+      <tr>
+        <td><%=link_to publisher.name, publisher%></td>
+        <td><%=publisher.founded%></td>
+        <td><%=publisher.comics.count%></td>
+      </tr>
+      <%end%>
+     </tbody>
+  </thead>
+</table>
