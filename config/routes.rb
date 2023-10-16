@@ -1,11 +1,10 @@
 Rails.application.routes.draw do
-
   # Routes for Comics
-  root to: 'comics#index'
+  root to: "comics#index"
   # resources :comics, only: [:index, :show]
 
   # Route for About page
-  get 'comics/about'
+  get "comics/about"
 
   get "publishers/index"
   get "publishers/show"
@@ -19,5 +18,4 @@ Rails.application.routes.draw do
   resources :comics, only: %i[index show]
   resources :writers, only: %i[index show]
   resources :publishers, only: %i[index show]
-
 end

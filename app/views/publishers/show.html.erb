@@ -1,6 +1,17 @@
 <h1><%=@publisher.name%></h1>
 <p>List of comics the publisher has released in the collection.</p>
+
+<%= form_tag "/publishers/#{@id}", method: :get do %>
+   <%= select_tag :author_id, options_from_collection_for_select(@writer, 'id', "first_name"),prompt: "Author" %>
+   <%= submit_tag "Search" %>
+<% end %>
+<%if !params['author_id'].nil?%>
+  <p class= "mb-1">You are searching for DC comics written by <%=Writer.find_by(id: params['author_id']).first_name%> <%=Writer.find_by(id: params['author_id']).last_name%></p>
+  <p><%=link_to "Clear Filter", "/publishers/#{params[:id]}"%></p>
+<%end%>
+
 <table class="table table-sm">
+</div>
   <thead>
       <tr>
         <th scope="col">Title</th>
@@ -10,13 +21,13 @@
         <th scope="col">Edition</th>
         <th scope="col">Format</th>
       </tr>
-      <tbody class="table-group-divider ">
-      <%@publisher.comics.each do |comic|%>
+      <tbody class="table-group-divider">
+      <%@comic_result.each do |comic|%>
       <tr>
         <td><%=link_to comic.title, comic%></td>
         <td><%=comic.release_date%></td>
         <td>$<%=comic.cover_price%></td>
-        <td><%=link_to comic.writer.first_name, :writer%></td>
+        <td><%=link_to comic.writer.first_name + " " + comic.writer.last_name, "/writers/" + comic.writer_id.to_s%></td>
         <td><%=comic.edition.edition%></td>
         <td><%=comic.format.format%></td>
       </tr>
