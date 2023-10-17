@@ -1,4 +1,4 @@
-comic_id,title,image_cover,release_date,cover_price,publisher_id,writer_id,edition_id,media_id
+comic_id,title,image_cover,release_date,cover_price,publisher_id,writer_id,edition_id,format_id
 1,Action Comics #1000,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9643653.jpg?1696738775,2018-04-18,7.99,1,1,1,1
 2,Age of Ultron #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1446858.jpg?1639530629,2013-03-06,3.99,2,2,1,1
 3,Age of Ultron #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2898576.jpg?1681331151,2013-03-13,3.99,2,2,1,1

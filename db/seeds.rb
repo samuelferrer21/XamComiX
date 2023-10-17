@@ -105,6 +105,6 @@ comic.each do |p|
     publisher_id: p["publisher_id"],
     writer_id:    p["writer_id"],
     edition_id:   p["edition_id"],
-    format_id:    p["media_id"]
+    format_id:    p["format_id"]
   )
 end
