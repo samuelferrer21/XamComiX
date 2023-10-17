@@ -1,5 +1,10 @@
-<h1><%=@publisher.name%></h1>
-<p>List of comics the publisher has released in the collection.</p>
+<% if @publisher.id == 1 || @publisher.id == 2 %>
+  <img src="<%= @publisher.logo %>" width="330px" height="330px" class="img-thumbnail"  alt="logo">
+<% else %>
+  <img src="<%= @publisher.logo %>" class="img-thumbnail"  alt="logo">
+<% end %>
+<br/>
+<p>List of comics this publisher has in the collection.</p>
 
 <%= form_tag "/publishers/#{@id}", method: :get do %>
    <%= select_tag :author_id, options_from_collection_for_select(@writer, 'id', "first_name"),prompt: "Author" %>
