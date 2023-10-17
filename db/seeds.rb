@@ -1,11 +1,11 @@
 require "csv"
 
-# Delete all records
-Comic.delete_all
-Publisher.delete_all
-Format.delete_all
-Edition.delete_all
-Writer.delete_all
+# Destroy all records
+Comic.destroy_all
+Publisher.destroy_all
+Format.destroy_all
+Edition.destroy_all
+Writer.destroy_all
 
 # Reset auto-Increment for all tables
 ActiveRecord::Base.connection.execute("DELETE FROM sqlite_sequence WHERE name='publishers';")
@@ -79,7 +79,7 @@ end
 # Creates Writer
 writer.each do |p|
   # Create publishers
-  comic_writer = Writer.find_by_last_name(p["last_name"])
+  comic_writer = Writer.find_by(last_name: p["last_name"])
 
   next if comic_writer&.valid?
 
