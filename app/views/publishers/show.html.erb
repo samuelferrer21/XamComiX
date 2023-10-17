@@ -6,7 +6,7 @@
    <%= submit_tag "Search" %>
 <% end %>
 <%if !params['author_id'].nil?%>
-  <p class= "mb-1">You are searching for DC comics written by <%=Writer.find_by(id: params['author_id']).first_name%> <%=Writer.find_by(id: params['author_id']).last_name%></p>
+  <p class= "mb-1">You are searching for <%= @publisher.name%> written by <%=Writer.find_by(id: params['author_id']).first_name%> <%=Writer.find_by(id: params['author_id']).last_name%></p>
   <p><%=link_to "Clear Filter", "/publishers/#{params[:id]}"%></p>
 <%end%>
 
