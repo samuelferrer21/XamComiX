@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema[7.0].define(version: 2023_10_11_154245) do
+ActiveRecord::Schema[7.0].define(version: 2023_10_17_025806) do
   create_table "comics", force: :cascade do |t|
     t.string "title"
     t.date "release_date"
@@ -21,6 +21,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_10_11_154245) do
     t.integer "format_id", null: false
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "image_cover"
     t.index ["edition_id"], name: "index_comics_on_edition_id"
     t.index ["format_id"], name: "index_comics_on_format_id"
     t.index ["publisher_id"], name: "index_comics_on_publisher_id"
@@ -31,6 +32,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_10_11_154245) do
     t.string "edition"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "image"
   end
 
   create_table "formats", force: :cascade do |t|
@@ -44,6 +46,7 @@ ActiveRecord::Schema[7.0].define(version: 2023_10_11_154245) do
     t.integer "founded"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.string "logo"
   end
 
   create_table "writers", force: :cascade do |t|

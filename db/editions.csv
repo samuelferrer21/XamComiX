@@ -1,7 +1,7 @@
-edition_id,edition
-1,Floppy
-2,Omnibus
-3,Trade Paperback
-4,Absolute
-5,Hard Cover
-6,Compendium
+edition_id,edition,image
+1,Floppy,https://www.syfy.com/sites/syfy/files/styles/hero_image__large__computer__alt/public/2021/03/comics_shelves.jpg
+2,Omnibus,https://i.redd.it/p3rr4x5ryx581.jpg
+3,Trade Paperback,https://www.howtolovecomics.com/wp-content/uploads/2013/12/tpb.jpg
+4,Absolute,https://m.media-amazon.com/images/I/81y3ifTzmAL._SL1500_.jpg
+5,Hard Cover,https://comicvine.gamespot.com/a/uploads/scale_super/0/40/2728136-dsc02169.jpg
+6,Compendium,https://store.skybound.com/cdn/shop/products/Invincible_Compendium_Bundle_SHOP_617x.progressive.png?v=1665513123

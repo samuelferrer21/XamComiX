@@ -1,19 +1,11 @@
-# This file should contain all the record creation needed to seed the database with its default values.
-# The data can then be loaded with the bin/rails db:seed command (or created alongside the database with db:setup).
-#
-# Examples:
-#
-#   movies = Movie.create([{ name: "Star Wars" }, { name: "Lord of the Rings" }])
-#   Character.create(name: "Luke", movie: movies.first)
-
 require "csv"
 
-# Delete all records
-Comic.delete_all
-Publisher.delete_all
-Format.delete_all
-Edition.delete_all
-Writer.delete_all
+# Destroy all records
+Comic.destroy_all
+Publisher.destroy_all
+Format.destroy_all
+Edition.destroy_all
+Writer.destroy_all
 
 # Reset auto-Increment for all tables
 ActiveRecord::Base.connection.execute("DELETE FROM sqlite_sequence WHERE name='publishers';")
@@ -50,7 +42,8 @@ publishers.each do |p|
 
     publisher = Publisher.create(
       name:    p["publisher_name"],
-      founded: p["founded"]
+      founded: p["founded"],
+      logo:    p["logo"]
     )
   end
   Rails.logger.debug "Created #{Publisher.count} publishers."
@@ -86,7 +79,7 @@ end
 # Creates Writer
 writer.each do |p|
   # Create publishers
-  comic_writer = Writer.find_by_last_name(p["last_name"])
+  comic_writer = Writer.find_by(last_name: p["last_name"])
 
   next if comic_writer&.valid?
 
@@ -106,11 +99,12 @@ comic.each do |p|
 
   comic_table = Comic.create(
     title:        p["title"],
+    image_cover:  p["image_cover"],
     release_date: p["release_date"],
     cover_price:  p["cover_price"],
     publisher_id: p["publisher_id"],
     writer_id:    p["writer_id"],
     edition_id:   p["edition_id"],
-    format_id:    p["media_id"]
+    format_id:    p["format_id"]
   )
 end
