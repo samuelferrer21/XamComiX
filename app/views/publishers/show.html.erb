@@ -11,7 +11,6 @@
 <%end%>
 
 <table class="table table-sm">
-</div>
   <thead>
       <tr>
         <th scope="col">Title</th>
@@ -21,7 +20,8 @@
         <th scope="col">Edition</th>
         <th scope="col">Format</th>
       </tr>
-      <tbody class="table-group-divider">
+    </thead>
+    <tbody class="table-group-divider">
       <%@comic_result.each do |comic|%>
       <tr>
         <td><%=link_to comic.title, comic%></td>
@@ -32,6 +32,5 @@
         <td><%=comic.format.format%></td>
       </tr>
       <%end%>
-     </tbody>
-  </thead>
+    </tbody>
 </table>

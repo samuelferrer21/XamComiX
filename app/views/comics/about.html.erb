@@ -1,28 +1,33 @@
-<h1>About Us</h1>
-<div class="container-sm">
-  <br/>
-  <p>
-    <strong>XamComiX</strong> is an app created by team <em>Uncle Sam</em> with Sam Ferrer and Xam Abados
-    of batch 2021-2023 Business Information Technology students of
-    Red River College Polytechnic for their Full-Stack Web Development class,
-    Intro to Rails project.
-  </p>
-  <p>
-    The chosen data source is Xam’s comic book collection over the years
-    where he listed down each <em>comic book</em>, its <em>writers</em>,
-    <em>editions</em>, <em>formats</em>, and also its <em>publishing company</em>
-    in an excel file and later on exported it into CSV files.
-  </p>
-  <br/>
-  <div class="text-center">
-    <%= image_tag("ERD.png") %>
+<div  class="container text-center">
+  <h1>About Us</h1>
+</div>
+
+<div class="container-md">
+  <div class="row">
+    <div class=" col-md-5">
+      <br/>
+      <p>
+        <strong>XamComiX</strong> is an app created by team <em>Uncle Sam</em> with Sam Ferrer and Xam Abados
+        of batch 2021-2023 Business Information Technology students of
+        Red River College Polytechnic for their Full-Stack Web Development class,
+        Intro to Rails project.
+      </p>
+      <p>
+        The chosen data source is Xam’s comic book collection over the years
+        where he listed down each <em>comic book</em>, its <em>writers</em>,
+        <em>editions</em>, <em>formats</em>, and also its <em>publishing company</em>
+        in an excel file and later on exported it into CSV files.
+      </p>
+      <p>
+        Overall, as of right now, the comics table contains a
+        total of 330 rows as this is the primary data
+        for this application. And we access this data and other tables
+        by parsing through each CSV file and using the Rails framework,
+        seed it in the database.
+      </p>
+    </div>
+    <div class="text-center col-md-7">
+        <%= image_tag("ERD.png", alt:"ERD") %>
+      </div>
   </div>
-  <br/>
-  <p>
-    Overall, as of right now, the comics table contains a
-    total of 330 rows as this is the primary data
-    for this application. And we access this data and other tables
-    by parsing through each CSV file and using the Rails framework,
-    seed it in the database.
-  </p>
 </div>
