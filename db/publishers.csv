@@ -1,6 +1,6 @@
-publisher_id,publisher_name,founded
-1,DC Comics,1934
-2,Marvel Comics,1939
-3,Vertigo Comics,1993
-4,Skybound,2010
-5,Panini Comics,1994
+publisher_id,publisher_name,founded,logo
+1,DC Comics,1934,https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/DC_Comics_logo.svg/1280px-DC_Comics_logo.svg.png
+2,Marvel Comics,1939,https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Marvel_Logo.svg/1280px-Marvel_Logo.svg.png
+3,Vertigo Comics,1993,https://upload.wikimedia.org/wikipedia/commons/a/aa/DC_Vertigo_Logo.png
+4,Skybound,2010,https://upload.wikimedia.org/wikipedia/en/b/bb/Skybound_Entertainment_Logo.png
+5,Panini Comics,1994,https://upload.wikimedia.org/wikipedia/commons/1/1b/Panini_comics_logo.png

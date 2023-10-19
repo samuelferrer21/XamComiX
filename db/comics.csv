@@ -1,331 +1,331 @@
-comic_id,title,release_date,cover_price,publisher_id,writer_id,edition_id,media_id
-1,Action Comics #1000,2018-04-18,7.99,1,1,1,1
-2,Age of Ultron #1,2013-03-06,3.99,2,2,1,1
-3,Age of Ultron #2,2013-03-13,3.99,2,2,1,1
-4,All-New Wolverine by Tom Taylor Omnibus HC,2021-05-05,125,2,3,2,1
-5,"All-New, All-Different Avengers Annual #1 Ross Variant",2016-08-10,4.99,2,4,1,1
-6,All-Star Batman #1 Jock Variant,2016-08-10,4.99,1,5,1,1
-7,All-Star Batman #2 Shalvey Variant Edition,2016-09-14,4.99,1,5,1,1
-8,All-Star Batman #3 Shalvey Variant Edition,2016-10-12,4.99,1,5,1,1
-9,All-Star Batman #4,2016-11-09,4.99,1,5,1,1
-10,All-Star Batman #5 Jock Variant,2016-12-28,4.99,1,5,1,1
-11,Amazing Fantasy #15 Facsimile Edition (2019),2019-10-09,3.99,2,6,1,1
-12,The Amazing Spider-Man #16 Collector Corps Variant,2016-08-10,0,2,7,1,1
-13,The Amazing Spider-Man #800,2018-05-30,9.99,2,7,1,1
-14,The Amazing Spider-Man by J. Michael Straczynski Omnibus Vol. 2 HC Garney DM Variant,2020-09-02,158,2,8,2,1
-15,The Amazing Spider-Man: Origin of the Species TP,2011-07-27,22.5,2,4,3,1
-16,The Amazing Spider-Man Vol. 3: Spider-verse TP,2015-07-08,27.99,2,7,3,1
-17,The Amazing Spider-Man Red Goblin TP,2019-10-30,0,2,7,3,2
-18,Ant-Man #5 Marvel Collectors Corp Exclusive Variant,2015-06-23,0,2,9,1,1
-19,Astonishing X-Men by Whedon & Cassaday Omnibus HC 2020 Printing,2020-06-03,127,2,10,2,1
-20,Avengers #1,2016-11-02,4.99,2,4,1,1
-21,Avengers #2,2016-12-07,3.99,2,4,1,1
-22,Avengers #2.1,2016-12-21,3.99,2,4,1,1
-23,Avengers #3,2017-01-04,3.99,2,4,1,1
-24,Avengers #3.1,2017-01-18,3.99,2,4,1,1
-25,Avengers #4,2017-02-01,3.99,2,4,1,1
-26,Avengers #5,2017-03-01,3.99,2,4,1,1
-27,Avengers #5.1,2017-03-29,3.99,2,4,1,1
-28,Avengers #6,2017-04-05,3.99,2,4,1,1
-29,Avengers Vol. 1: Avengers World TP,2014-02-12,19.99,2,11,3,1
-30,Avengers Vs. X-Men TP,2013-03-27,0,2,2,3,2
-31,The Avengers Complete Collection By Geoff Johns Vol. 1 TP,2013-05-29,32.99,2,1,3,1
-32,Batman #1,2016-06-15,2.99,1,12,1,1
-33,Batman #2,2016-07-06,2.99,1,12,1,1
-34,Batman #3,2016-07-20,2.99,1,12,1,1
-35,Batman #4 Variant Edition,2016-08-03,2.99,1,12,1,1
-36,Batman #5,2016-08-17,2.99,1,12,1,1
-37,Batman #6,2016-09-07,2.99,1,12,1,1
-38,Batman #7,2016-09-21,2.99,1,12,1,1
-39,Batman #8,2016-10-05,2.99,1,12,1,1
-40,Batman #9,2016-10-19,2.99,1,12,1,1
-41,Batman #10,2016-11-02,2.99,1,12,1,1
-42,Batman #11,2016-11-16,2.99,1,12,1,1
-43,Batman #12,2016-12-07,2.99,1,12,1,1
-44,Batman #13,2016-12-21,2.99,1,12,1,1
-45,Batman #14,2017-01-04,2.99,1,12,1,1
-46,Batman #21 C2E2 Foil Exclusive,2017-04-19,3.99,1,12,1,1
-47,Batman #22,2017-05-03,3.99,1,12,1,1
-48,Absolute Batman: Hush HC,2011-11-30,96.69,1,13,4,1
-49,Batman: Year One TP,2007-02-07,15.6,1,14,3,1
-50,Batman by Grant Morrison Omnibus Vol. 1 HC,2018-07-04,0,1,15,2,1
-51,Batman: Ego and Other Tails TP,2008-11-12,15.6,1,16,3,1
-52,Batman: Last Knight on Earth #1,2019-05-29,5.99,1,5,1,1
-53,Batman: Last Knight on Earth #2 Variant Edition,2019-07-31,5.99,1,5,1,1
-54,Batman: Last Knight on Earth #3,2019-12-18,5.99,1,5,1,1
-55,Batman: Rebirth #1 2nd Printing,2016-06-29,2.99,1,5,1,1
-56,Batman: The Dark Knight Returns 30th Anniversary Edition TP,2016-02-10,19.99,1,14,3,1
-57,Batman: The Long Halloween TP Second Edition,2011-10-05,15.6,1,13,3,1
-58,Batman: Three Jokers HC,2020-11-17,35.69,1,1,5,1
-59,Black Panther #1,2016-04-06,4.99,2,17,1,2
-60,Black Panther #3,2016-06-29,3.99,2,17,1,2
-61,Black Panther #2 3rd Printing Rahzzah Run Jewels Variant,2016-07-27,3.99,2,17,1,1
-62,Black Panther #4,2016-07-27,3.99,2,17,1,2
-63,Black Panther #5 Ribic Connecting A Variant,2016-08-10,3.99,2,17,1,1
-64,Black Panther #6,2016-09-14,3.99,2,17,1,2
-65,Black Panther #7,2016-10-19,3.99,2,17,1,2
-66,Black Panther #8,2016-11-16,3.99,2,17,1,2
-67,Black Widow Vol. 1: SHIELD's Most Wanted TP,2016-10-26,0,2,4,3,2
-68,Cable #1,1993-05-01,0,2,18,1,1
-69,Cable #1,2017-05-31,3.99,2,19,1,2
-70,Captain America: Winter Soldier Ultimate Collection TP,2010-03-31,0,2,20,3,2
-71,Captain America: Sam Wilson Vol. 1: Not My Captain America TP,2016-04-20,0,2,9,3,2
-72,Captain America: Steve Rogers #1,2016-05-25,0,2,9,1,2
-73,Captain America: Steve Rogers #2,2016-06-29,3.99,2,9,1,2
-74,Captain America: Steve Rogers #1 2nd Printing,2016-07-06,4.99,2,9,1,1
-75,Captain America: Steve Rogers #3,2016-07-27,3.99,2,9,1,1
-76,Captain America: Steve Rogers #4,2016-08-24,4.99,2,9,1,1
-77,Captain America: Steve Rogers #5,2016-09-28,3.99,2,9,1,1
-78,Captain America: Steve Rogers #6,2016-10-26,3.99,2,9,1,1
-79,Captain America: Steve Rogers #7,2016-11-09,3.99,2,9,1,1
-80,"Captain Marvel Vol. 1: Higher, Further, Faster, More TP",2014-10-08,0,2,21,3,1
-81,Champions #1,2016-10-05,4.99,2,4,1,1
-82,Champions #1 Marvel Collector Corps Exclusive Variant,2016-10-05,3.99,2,4,1,1
-83,Champions #2,2016-11-02,3.99,2,4,1,1
-84,Champions #3,2016-12-07,3.99,2,4,1,1
-85,Champions #4,2017-01-04,3.99,2,4,1,1
-86,Champions #5,2017-02-01,3.99,2,4,1,1
-87,Champions #6,2017-03-01,3.99,2,4,1,1
-88,Civil War TP,2007-04-11,0,2,22,3,2
-89,Civil War II #1,2016-06-01,5.99,2,2,1,2
-90,Civil War II #2,2016-06-15,4.99,2,2,1,2
-91,Civil War II #3,2016-07-13,4.99,2,2,1,2
-92,Civil War II #4,2016-07-27,4.99,2,2,1,2
-93,Civil War II #5,2016-09-21,4.99,2,2,1,2
-94,Civil War II #6,2016-10-26,4.99,2,2,1,2
-95,Civil War II #7,2016-11-23,4.99,2,2,1,2
-96,Civil War II #8,2016-12-28,4.99,2,2,1,2
-97,Civil War II: Amazing Spider-Man #1,2016-06-08,3.99,2,23,1,2
-98,Civil War II: Amazing Spider-Man #2,2016-07-13,3.99,2,23,1,2
-99,Civil War II: Amazing Spider-Man #3,2016-08-17,3.99,2,23,1,1
-100,Civil War II: Amazing Spider-Man #4,2016-09-14,3.99,2,23,1,1
-101,Civil War II: Choosing Sides #1,2016-06-22,4.99,2,24,1,1
-102,Civil War II: Choosing Sides #2,2016-07-13,3.99,2,25,1,1
-103,Civil War II: Choosing Sides #3,2016-07-27,3.99,2,26,1,1
-104,Civil War II: Choosing Sides #4,2016-08-17,3.99,2,27,1,1
-105,Civil War II: Choosing Sides #5 Alpha Flight Team-Up Variant,2016-08-31,3.99,2,28,1,1
-106,Civil War II: Choosing Sides #6,2016-09-21,3.99,2,29,1,1
-107,Civil War II: Gods of War #1,2016-06-08,3.99,2,30,1,2
-108,Civil War II: Gods of War #2,2016-07-13,3.99,2,30,1,2
-109,Civil War II: Gods of War #3,2016-08-17,3.99,2,30,1,1
-110,Civil War II: Gods of War #4,2016-09-14,3.99,2,30,1,1
-111,Civil War II: The Fallen #1,2016-08-17,4.99,2,31,1,1
-112,Civil War II: The Oath #1,2017-01-25,4.99,2,9,1,1
-113,Civil War II: Ulysses #1,2016-08-24,4.99,2,32,1,1
-114,Civil War II: Ulysses #2,2016-09-14,4.99,2,32,1,1
-115,Civil War II: Ulysses #3,2016-10-12,4.99,2,32,1,1
-116,Civil War II: X-Men #1,2016-06-15,3.99,2,33,1,2
-117,Civil War II: X-Men #2,2016-07-06,3.99,2,33,1,1
-118,Civil War II: X-Men #3,2016-08-17,3.99,2,33,1,1
-119,Civil War II: X-Men #4,2016-09-21,3.99,2,33,1,1
-120,Daredevil and The Punisher: Child's Play TP,1988-01-01,0,2,14,3,1
-121,Daredevil: Born Again TP 2nd Edition 3rd Printing,2012-01-01,0,2,14,3,1
-122,Dark Knight Returns: The Last Crusade #1,2016-06-15,6.99,1,34,1,1
-123,Dawn of X Vol. 1 TP,2020-02-12,32.99,2,35,3,1
-124,Dawn of X Vol. 2 TP,2020-02-26,23.99,2,36,3,1
-125,Dawn of X Vol. 3 TP,2020-03-11,23.99,2,35,3,1
-126,Dawn of X Vol. 4 TP,2020-03-25,23.99,2,35,3,1
-127,Dawn of X Vol. 5 TP,2020-06-17,23.99,2,36,3,1
-128,Dawn of X Vol. 6 TP,2020-07-01,23.99,2,35,3,1
-129,Dawn of X Vol. 7 TP,2020-08-26,22.99,2,36,3,1
-130,Dawn of X Vol. 8 TP,2020-10-07,22.99,2,36,3,1
-131,Dawn of X Vol. 9 TP,2020-10-28,22.99,2,35,3,1
-132,Dawn of X Vol. 10 TP,2020-11-11,22.99,2,37,3,1
-133,Dawn of X Vol. 11 TP,2021-01-20,22.99,2,37,3,1
-134,Dawn of X Vol. 12 TP,2021-02-03,22.99,2,37,3,1
-135,Dawn of X Vol. 13 TP,2021-02-17,22.99,2,36,3,1
-136,Dawn of X Vol. 14 TP,2021-03-17,22.99,2,37,3,1
-137,Dawn of X Vol. 15 TP,2021-04-21,22.99,2,35,3,1
-138,Dawn of X Vol. 16 TP,2021-05-26,22.99,2,38,3,1
-139,DC Universe: Rebirth #1,2016-05-25,2.99,1,1,1,1
-140,Dead No More: The Clone Conspiracy #1,2016-10-12,4.99,2,7,1,1
-141,Dead No More: The Clone Conspiracy #2,2016-11-09,3.99,2,7,1,1
-142,Dead No More: The Clone Conspiracy #3,2016-12-07,3.99,2,7,1,1
-143,Dead No More: The Clone Conspiracy #4,2017-01-18,3.99,2,7,1,1
-144,Dead No More: The Clone Conspiracy #5,2017-02-15,3.99,2,7,1,1
-145,Deadpool by Daniel Way: The Complete Collection Vol. 1 TP,2013-07-17,0,2,39,3,1
-146,Deadpool & Cable: Split Second TP,2016-04-20,16.99,2,18,3,2
-147,Deadpool Kills the Marvel Universe TP,2012-10-31,0,2,33,3,2
-148,Deadpool vs. X-Force TP,2014-11-05,15.99,2,40,3,1
-149,Death of Wolverine HC,2015-01-07,27.99,2,41,5,1
-150,Death of X TP,2017-03-01,23.99,2,42,3,1
-151,Death: The High Cost of Living TP,1994-06-01,0,3,43,3,1
-152,Detective Comics #1000 Midnight Release Variant,2019-03-27,9.99,1,44,1,1
-153,Detective Comics #1027 Jim Lee Batman & Superman Variant Edition,2020-09-15,9.99,1,15,1,1
-154,Doctor Strange and the Sorcerers Supreme #1 Marvel Collector Corps Variant,2016-10-26,0,2,45,1,1
-155,Doomsday Clock Part 1 HC,2019-10-02,16.5,1,1,5,1
-156,Doomsday Clock Part 2 HC,2020-06-16,16.5,1,1,5,1
-157,Empyre TP,2020-10-28,49.99,2,32,3,1
-158,Empyre: X-Men TP,2020-11-04,22.99,2,11,3,1
-159,Fantastic Four Vol. 1: Fourever TP,2019-03-06,15.99,2,7,3,2
-160,FF Vol. 1 TP,2012-02-29,15.99,2,11,3,1
-161,The Flash #2,2016-07-13,2.99,1,46,1,1
-162,The Flash #1 2nd Printing,2016-07-20,2.99,1,46,1,1
-163,The Flash #3,2016-07-27,2.99,1,46,1,1
-164,The Flash #4 Variant Edition,2016-08-10,2.99,1,46,1,1
-165,The Flash #5 Variant Edition,2016-08-24,2.99,1,46,1,1
-166,The Flash #6,2016-09-14,2.99,1,46,1,1
-167,The Flash #7,2016-09-28,2.99,1,46,1,1
-168,The Flash #8 Variant Edition,2016-10-12,2.99,1,46,1,1
-169,The Flash #9 Variant Edition,2016-10-26,2.99,1,46,1,1
-170,The Flash #21,2017-04-26,3.99,1,46,1,1
-171,The Flash #22,2017-05-17,3.99,1,46,1,1
-172,The Flash: Rebirth #1 2nd Printing,2016-07-06,2.99,1,46,1,1
-173,Generation X #1,2017-05-17,0,2,29,1,2
-174,Green Lantern: The Sinestro Corps War Vol. 1 HC,2008-02-20,0,1,1,5,1
-175,House of M #1,2005-06-01,0,2,2,1,1
-176,House of M #2,2005-06-22,0,2,2,1,1
-177,House of M #3,2005-07-06,0,2,2,1,1
-178,House of M #4,2005-07-20,0,2,2,1,1
-179,House of M #5,2005-08-10,0,2,2,1,1
-180,House of M #6,2005-09-07,0,2,2,1,1
-181,House of M #7,2005-10-12,0,2,2,1,1
-182,House of M #8,2005-11-02,0,2,2,1,1
-183,House of X #1,2019-07-24,0,2,11,1,2
-184,House of X #2,2019-08-07,0,2,11,1,2
-185,House of X #2 1:10 Mike Huddleston Variant,2019-08-07,4.99,2,11,1,1
-186,House of X #3,2019-08-28,0,2,11,1,2
-187,House of X #3 Skottie Young Variant,2019-08-28,4.99,2,11,1,1
-188,House of X #1 3rd Printing,2019-09-04,5.99,2,11,1,1
-189,House of X #4,2019-09-04,0,2,11,1,2
-190,House of X #4 Sara Pichelli and Dean White Flower Variant,2019-09-04,4.99,2,11,1,1
-191,House of X #5,2019-09-18,0,2,11,1,2
-192,House of X #5 Pichelli Flower Variant,2019-09-18,4.99,2,11,1,1
-193,House of X #6,2019-10-02,0,2,11,1,2
-194,House of X #6 Sara Pichelli Flower Variant,2019-10-02,4.99,2,11,1,1
-195,House of X / Powers of X HC,2019-12-11,76,2,11,5,1
-196,Iceman #1,2017-06-07,0,2,47,1,2
-197,Infamous Iron Man #1,2016-10-19,3.99,2,2,1,1
-198,Infinity TP,2014-09-03,0,2,11,3,2
-199,Inhumans vs. X-Men #1 Collector Corps Variant,2017-02-15,0,2,42,1,1
-200,Invincible Compendium Vol. 1 TP,2011-08-17,57.24,4,48,6,1
-201,Invincible Compendium Vol. 2 TP,2013-08-14,64.99,4,48,6,1
-202,Invincible Compendium Vol. 3 TP,2018-07-24,64.99,4,48,6,1
-203,Invincible Iron Man #1,2016-11-09,3.99,2,2,1,1
-204,Invincible Iron Man #2,2016-12-21,3.99,2,2,1,1
-205,Invincible Iron Man #3,2017-01-18,3.99,2,2,1,1
-206,Invincible Iron Man #4,2017-02-15,3.99,2,2,1,1
-207,Invincible Iron Man #5,2017-03-22,3.99,2,2,1,1
-208,Invincible Iron Man #6,2017-04-19,3.99,2,2,1,1
-209,Jean Grey #1,2017-05-03,0,2,49,1,2
-210,Justice League #1,2016-07-20,2.99,1,50,1,1
-211,Justice League #2,2016-08-03,2.99,1,50,1,1
-212,Justice League #3,2016-08-17,2.99,1,50,1,1
-213,Justice League #4,2016-09-07,2.99,1,50,1,1
-214,Justice League #5,2016-09-21,2.99,1,50,1,1
-215,Justice League #6,2016-10-05,2.99,1,50,1,1
-216,Justice League of America: Hereby Elects TP,2006-12-20,14.99,1,51,3,1
-217,Justice League: Rebirth #1,2016-07-06,2.99,1,50,1,1
-218,Absolute Kingdom Come (New Edition),2018-10-10,99.23,1,4,4,1
-219,Marvel Comics #1000 2nd Printing,2019-10-02,9.99,2,32,1,1
-220,Marvel's Spider-Man: City at War TP,2019-10-16,25.99,2,49,1,1
-221,Marvel's Spider-Man: The Black Cat Strikes TP,2020-09-16,21.99,2,49,1,1
-222,Marvel's Spider-Man: Velocity TP,2020-02-19,20.99,2,49,1,1
-223,Nightwing #1 Variant Edition,2016-07-27,2.99,1,52,1,1
-224,Nightwing #2 Variant Edition,2016-08-03,2.99,1,52,1,1
-225,Nightwing #3,2016-08-17,2.99,1,52,1,1
-226,Nightwing #4,2016-09-07,2.99,1,52,1,1
-227,Nightwing #5,2016-09-21,2.99,1,52,1,1
-228,Nightwing #6,2016-10-05,2.99,1,52,1,1
-229,Nightwing #7,2016-10-19,2.99,1,52,1,1
-230,Nightwing #8,2016-11-02,2.99,1,52,1,1
-231,Nightwing #9,2016-11-16,2.99,1,52,1,1
-232,Nightwing: Rebirth #1,2016-07-13,2.99,1,52,1,1
-233,Planet-Size X-Men #1,2021-06-16,4.99,2,36,1,1
-234,Powers of X #1,2019-07-31,0,2,11,1,2
-235,Powers of X #2,2019-08-14,0,2,11,1,2
-236,Powers of X #3,2019-08-21,0,2,11,1,2
-237,Powers of X #3 Dustin Weaver New Character Variant,2019-08-21,4.99,2,11,1,1
-238,Powers of X #2 2nd Printing,2019-08-28,4.99,2,11,1,1
-239,Powers of X #1 3rd Printing,2019-09-04,5.99,2,11,1,1
-240,Powers of X #4,2019-09-11,0,2,11,1,2
-241,Powers of X #4 Weaver New Character Variant,2019-09-11,4.99,2,11,1,1
-242,Powers of X #5,2019-09-25,0,2,11,1,2
-243,Powers of X #5 Valerio Schiti Character Decades Variant,2019-09-25,0,2,11,1,1
-244,Powers of X #6,2019-10-09,5.99,2,11,1,2
-245,The Rise of Apocalypse #1,1996-10-01,0,2,53,1,1
-246,Savage Wolverine #1,2013-01-16,3.99,2,54,1,1
-247,Savage Wolverine #2,2013-02-20,3.99,2,54,1,1
-248,Savage Wolverine #3,2013-03-20,3.99,2,54,1,1
-249,Savage Wolverine #4,2013-04-17,3.99,2,54,1,1
-250,Savage Wolverine #5,2013-05-29,3.99,2,54,1,1
-251,Secret Empire #0,2017-04-19,4.99,2,9,1,1
-252,Secret Empire #0 Marvel Collector Corps Guardians of the Galaxy Vol. 2 Box Variant,2017-04-19,4.99,2,9,1,1
-253,Secret Empire #1,2017-05-03,4.99,2,9,1,1
-254,Secret Empire #2,2017-05-17,4.99,2,9,1,1
-255,Secret Empire #3,2017-05-31,3.99,2,9,1,1
-256,Secret Empire #4,2017-06-14,3.99,2,9,1,1
-257,Secret Empire #5,2017-06-28,3.99,2,9,1,1
-258,Secret Wars TP,2016-09-20,0,2,11,3,2
-259,Spider-Geddon #1,2018-10-10,3.99,2,7,1,2
-260,Spider-Man By Roger Stern Omnibus HC 2021 Printing,2021-04-21,157,2,55,2,1
-261,Spider-Man: Kraven's Last Hunt TP,2008-09-10,15.75,2,56,3,1
-262,Spider-Man: Life Story Panini TP,2020-01-06,32.99,5,57,3,1
-263,Spider-Man: Miles Morales Omnibus HC,2020-02-12,127,2,2,2,1
-264,Spider-Men TP,2013-05-08,21.99,2,2,3,1
-265,Star Wars: Darth Vader Vol. 1 TP,2015-10-07,21.99,2,58,3,1
-266,Star Wars: The Rise of Kylo Ren #1,2019-12-18,4.99,2,41,1,2
-267,Star Wars: The Rise of Kylo Ren #2,2020-01-08,3.99,2,41,1,2
-268,Star Wars: The Rise of Kylo Ren #3,2020-02-12,3.99,2,41,1,2
-269,Star Wars: The Rise of Kylo Ren #4,2020-03-11,3.99,2,41,1,2
-270,Suicide Squad: Rebirth #1 Variant Edition,2016-08-03,2.99,1,59,1,1
-271,Superman #1 Variant Edition,2016-06-15,2.99,1,44,1,1
-272,Superman #2,2016-07-06,2.99,1,44,1,1
-273,Superman #3 Variant Edition,2016-07-20,2.99,1,44,1,1
-274,Superman #4,2016-08-03,2.99,1,44,1,1
-275,Superman #5,2016-08-17,2.99,1,44,1,1
-276,Superman #6,2016-09-07,2.99,1,44,1,1
-277,Superman #7,2016-09-21,2.99,1,44,1,1
-278,Superman #8,2016-10-05,2.99,1,44,1,1
-279,Superman #9 Variant Edition,2016-10-19,2.99,1,44,1,1
-280,Superman: Rebirth #1 2nd Printing,2016-06-29,2.99,1,44,1,1
-281,Superman: The Death of Superman TP,1993-01-01,4.95,1,60,3,1
-282,Teen Titans: Rebirth #1,2016-09-28,2.99,1,38,1,1
-283,Thanos: Thanos Wins TP,2018-06-27,0,2,58,3,2
-284,Timely Comics All New All Different Avengers #1,2016-06-01,3,2,4,1,1
-285,Timely Comics Doctor Strange #1,2016-06-08,3,2,61,1,1
-286,Timely Comics Invincible Iron Man #1,2016-06-15,3,2,2,1,1
-287,Timely Comics New Avengers #1,2016-06-15,3,2,32,1,1
-288,Titans: Rebirth #1 2nd Printing,2016-07-13,2.99,1,30,1,1
-289,True Believers: All-New Wolverine #1,2017-02-22,1,2,3,1,1
-290,True Believers: House of M #1,2015-04-15,1,2,2,1,1
-291,True Believers: Miles Morales #1,2015-04-29,1,2,2,1,1
-292,Ultimate Spider-Man: Ultimate Collection Vol. 1 TP,2007-03-14,0,2,2,3,2
-293,Uncanny X-Force By Rick Remender Omnibus HC 2020 Printing,2020-03-04,127,2,62,2,1
-294,Uncanny X-Men Omnibus Vol. 3 HC 2021 Printing,2021-01-06,157,2,63,2,1
-295,X-Men by Chris Claremont & Jim Lee Omnibus Vol. 2 HC 2021 Printing DM Variant,2021-03-10,157,2,63,2,1
-296,The Vision HC,2018-01-23,50.43,2,12,5,2
-297,Watchmen: The Deluxe Edition HC,2013-05-29,44.66,1,64,5,1
-298,Weapon X #1,2017-04-12,3.99,2,31,1,2
-299,Weapon X #2,2017-04-26,3.99,2,31,1,1
-300,Weapon X #3,2017-05-10,3.99,2,31,1,1
-301,Weapon X #4,2017-06-14,3.99,2,31,1,1
-302,Weapons of Mutant Destruction: Alpha #1,2017-06-21,4.99,2,31,1,1
-303,Wonder Woman #2 Variant Edition,2016-07-13,2.99,1,65,1,1
-304,Wonder Woman #1 2nd Printing,2016-07-20,2.99,1,65,1,1
-305,Wonder Woman #3,2016-07-27,2.99,1,65,1,1
-306,Wonder Woman #4,2016-08-10,2.99,1,65,1,1
-307,Wonder Woman #5,2016-08-24,2.99,1,65,1,1
-308,Wonder Woman #6,2016-09-14,2.99,1,65,1,1
-309,Wonder Woman #7,2016-09-28,2.99,1,65,1,1
-310,Wonder Woman #8,2016-10-12,2.99,1,65,1,1
-311,Wonder Woman #9,2016-10-26,2.99,1,65,1,1
-312,Wonder Woman #11,2016-11-23,2.99,1,65,1,1
-313,Wonder Woman: Rebirth #1,2016-06-08,2.99,1,65,1,1
-314,X of Swords HC,2021-03-03,125,2,37,5,1
-315,X-Men / Fantastic Four: 4X TP,2020-09-16,21.99,2,57,3,1
-316,X-Men: Blue #1,2017-04-12,4.99,2,33,1,2
-317,X-Men: Blue #2,2017-04-26,3.99,2,33,1,1
-318,X-Men: Blue #3,2017-05-10,3.99,2,33,1,1
-319,X-Men: Blue #4,2017-05-24,3.99,2,33,1,1
-320,X-Men: Blue #5,2017-06-14,3.99,2,33,1,1
-321,X-Men: Blue #6,2017-06-28,3.99,2,33,1,1
-322,"X-Men: God Loves, Man Kills 2nd Printing",2011-04-27,16.5,2,63,3,1
-323,X-Men: Gold #1,2017-04-05,4.99,2,66,1,2
-324,X-Men: Gold #2,2017-04-26,3.99,2,66,1,1
-325,X-Men: Gold #3,2017-05-03,3.99,2,66,1,1
-326,X-Men: Gold #4,2017-05-17,3.99,2,66,1,1
-327,X-Men: Gold #5,2017-06-07,3.99,2,66,1,1
-328,X-Men: Gold #6,2017-06-21,3.99,2,66,1,1
-329,X-Men: Prime #1,2017-03-29,4.99,2,33,1,1
-330,A Year of Marvels: The Amazing #1,2016-04-27,4.99,2,67,1,1
+comic_id,title,image_cover,release_date,cover_price,publisher_id,writer_id,edition_id,format_id
+1,Action Comics #1000,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9643653.jpg?1696738775,2018-04-18,7.99,1,1,1,1
+2,Age of Ultron #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1446858.jpg?1639530629,2013-03-06,3.99,2,2,1,1
+3,Age of Ultron #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2898576.jpg?1681331151,2013-03-13,3.99,2,2,1,1
+4,All-New Wolverine by Tom Taylor Omnibus HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2851051.jpg?1642241049,2021-05-05,125,2,3,2,1
+5,"All-New, All-Different Avengers Annual #1 Ross Variant",https://s3.amazonaws.com/comicgeeks/comics/covers/large-7255768.jpg?1679176641,2016-08-10,4.99,2,4,1,1
+6,All-Star Batman #1 Jock Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8251742.jpg?1694827954,2016-08-10,4.99,1,5,1,1
+7,All-Star Batman #2 Shalvey Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9357450.jpg?1694827983,2016-09-14,4.99,1,5,1,1
+8,All-Star Batman #3 Shalvey Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1670705.jpg?1694828073,2016-10-12,4.99,1,5,1,1
+9,All-Star Batman #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9495186.jpg?1694828128,2016-11-09,4.99,1,5,1,1
+10,All-Star Batman #5 Jock Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9137461.jpg?1694828158,2016-12-28,4.99,1,5,1,1
+11,Amazing Fantasy #15 Facsimile Edition (2019),https://s3.amazonaws.com/comicgeeks/comics/covers/large-4368905.jpg?1697471044,2019-10-09,3.99,2,6,1,1
+12,The Amazing Spider-Man #16 Collector Corps Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3919769.jpg?1690060701,2016-08-10,,2,7,1,1
+13,The Amazing Spider-Man #800,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7565867.jpg?1681869051,2018-05-30,9.99,2,7,1,1
+14,The Amazing Spider-Man by J. Michael Straczynski Omnibus Vol. 2 HC Garney DM Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6666912.jpg?1617659137,2020-09-02,158,2,8,2,1
+15,The Amazing Spider-Man: Origin of the Species TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3207958.jpg?1672591432,2011-07-27,22.5,2,4,3,1
+16,The Amazing Spider-Man Vol. 3: Spider-verse TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4888851.jpg?1683605270,2015-07-08,27.99,2,7,3,1
+17,The Amazing Spider-Man Red Goblin TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3351340.jpg?1592374033,2019-10-30,,2,7,3,2
+18,Ant-Man #5 Marvel Collectors Corp Exclusive Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1845443.jpg?1681542277,2015-06-23,,2,9,1,1
+19,Astonishing X-Men by Whedon & Cassaday Omnibus HC 2020 Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7310079.jpg?1641594288,2020-06-03,127,2,10,2,1
+20,Avengers #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9002786.jpg?1687977211,2016-11-02,4.99,2,4,1,1
+21,Avengers #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7517730.jpg?1675443334,2016-12-07,3.99,2,4,1,1
+22,Avengers #2.1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8029685.jpg?1687732354,2016-12-21,3.99,2,4,1,1
+23,Avengers #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9172708.jpg?1675443822,2017-01-04,3.99,2,4,1,1
+24,Avengers #3.1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5662991.jpg?1687738369,2017-01-18,3.99,2,4,1,1
+25,Avengers #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6314392.jpg?1675445000,2017-02-01,3.99,2,4,1,1
+26,Avengers #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4348397.jpg?1680428497,2017-03-01,3.99,2,4,1,1
+27,Avengers #5.1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9366940.jpg?1687804132,2017-03-29,3.99,2,4,1,1
+28,Avengers #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4816638.jpg?1680428493,2017-04-05,3.99,2,4,1,1
+29,Avengers Vol. 1: Avengers World TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3429947.jpg?1687049342,2014-02-12,19.99,2,11,3,1
+30,Avengers Vs. X-Men TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6777033.jpg?1688495268,2013-03-27,,2,2,3,2
+31,The Avengers Complete Collection By Geoff Johns Vol. 1 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4256164.jpg?1619200198,2013-05-29,32.99,2,1,3,1
+32,Batman #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6847385.jpg?1695958948,2016-06-15,2.99,1,12,1,1
+33,Batman #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9091388.jpg?1689609085,2016-07-06,2.99,1,12,1,1
+34,Batman #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9880462.jpg?1691636574,2016-07-20,2.99,1,12,1,1
+35,Batman #4 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2057451.jpg?1689623744,2016-08-03,2.99,1,12,1,1
+36,Batman #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5974841.jpg?1691642754,2016-08-17,2.99,1,12,1,1
+37,Batman #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4317569.jpg?1694446418,2016-09-07,2.99,1,12,1,1
+38,Batman #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2117967.jpg?1694453585,2016-09-21,2.99,1,12,1,1
+39,Batman #8,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4232084.jpg?1696067029,2016-10-05,2.99,1,12,1,1
+40,Batman #9,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5141530.jpg?1696067011,2016-10-19,2.99,1,12,1,1
+41,Batman #10,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5583151.jpg?1696067082,2016-11-02,2.99,1,12,1,1
+42,Batman #11,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5892117.jpg?1696067101,2016-11-16,2.99,1,12,1,1
+43,Batman #12,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6142486.jpg?1696067139,2016-12-07,2.99,1,12,1,1
+44,Batman #13,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9394723.jpg?1696067157,2016-12-21,2.99,1,12,1,1
+45,Batman #14,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6436185.jpg?1696067173,2017-01-04,2.99,1,12,1,1
+46,Batman #21 C2E2 Foil Exclusive,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5841463.jpg?1696081988,2017-04-19,3.99,1,12,1,1
+47,Batman #22,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8160118.jpg?1696067612,2017-05-03,3.99,1,12,1,1
+48,Absolute Batman: Hush HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1068335.jpg?1695009115,2011-11-30,96.69,1,13,4,1
+49,Batman: Year One TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4421432.jpg?1689451418,2007-02-07,15.6,1,14,3,1
+50,Batman by Grant Morrison Omnibus Vol. 1 HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9351141.jpg?1691599622,2018-07-04,,1,15,2,1
+51,Batman: Ego and Other Tails TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9132660.jpg?1691167230,2008-11-12,15.6,1,16,3,1
+52,Batman: Last Knight on Earth #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4509318.jpg?1669150115,2019-05-29,5.99,1,5,1,1
+53,Batman: Last Knight on Earth #2 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6660217.jpg?1685734740,2019-07-31,5.99,1,5,1,1
+54,Batman: Last Knight on Earth #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6411574.jpg?1669150160,2019-12-18,5.99,1,5,1,1
+55,Batman: Rebirth #1 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7337639.jpg?1686096787,2016-06-29,2.99,1,5,1,1
+56,Batman: The Dark Knight Returns 30th Anniversary Edition TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4186652.jpg?1693128454,2016-02-10,19.99,1,14,3,1
+57,Batman: The Long Halloween TP Second Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4281068.jpg?1695971528,2011-10-05,15.6,1,13,3,1
+58,Batman: Three Jokers HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2538184.jpg?1690306667,2020-11-17,35.69,1,1,5,1
+59,Black Panther #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6740533.jpg?1688609480,2016-04-06,4.99,2,17,1,2
+60,Black Panther #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5009157.jpg?1680429193,2016-06-29,3.99,2,17,1,2
+61,Black Panther #2 3rd Printing Rahzzah Run Jewels Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5656133.jpg?1592507383,2016-07-27,3.99,2,17,1,1
+62,Black Panther #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8695077.jpg?1659752359,2016-07-27,3.99,2,17,1,2
+63,Black Panther #5 Ribic Connecting A Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3480681.jpg?1659754185,2016-08-10,3.99,2,17,1,1
+64,Black Panther #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1330979.jpg?1659754364,2016-09-14,3.99,2,17,1,2
+65,Black Panther #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2259618.jpg?1659754538,2016-10-19,3.99,2,17,1,2
+66,Black Panther #8,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1235944.jpg?1659745106,2016-11-16,3.99,2,17,1,2
+67,Black Widow Vol. 1: SHIELD's Most Wanted TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5570377.jpg?1676267592,2016-10-26,,2,4,3,2
+68,Cable #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6394984.jpg?1686454227,1993-05-01,,2,18,1,1
+69,Cable #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2701583.jpg?1689096484,2017-05-31,3.99,2,19,1,2
+70,Captain America: Winter Soldier Ultimate Collection TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8736680.jpg?1696105919,2010-03-31,,2,20,3,2
+71,Captain America: Sam Wilson Vol. 1: Not My Captain America TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8887599.jpg?1687984766,2016-04-20,,2,9,3,2
+72,Captain America: Steve Rogers #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9091762.jpg?1688606008,2016-05-25,,2,9,1,2
+73,Captain America: Steve Rogers #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7181492.jpg?1687987799,2016-06-29,3.99,2,9,1,2
+74,Captain America: Steve Rogers #1 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1021653.jpg?1688606022,2016-07-06,4.99,2,9,1,1
+75,Captain America: Steve Rogers #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4674184.jpg?1688511428,2016-07-27,3.99,2,9,1,1
+76,Captain America: Steve Rogers #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2624012.jpg?1630697803,2016-08-24,4.99,2,9,1,1
+77,Captain America: Steve Rogers #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2481066.jpg?1630697835,2016-09-28,3.99,2,9,1,1
+78,Captain America: Steve Rogers #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2219300.jpg?1630697948,2016-10-26,3.99,2,9,1,1
+79,Captain America: Steve Rogers #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2808423.jpg?1630698013,2016-11-09,3.99,2,9,1,1
+80,"Captain Marvel Vol. 1: Higher, Further, Faster, More TP",https://s3.amazonaws.com/comicgeeks/comics/covers/large-2742210.jpg?1613278608,2014-10-08,,2,21,3,1
+81,Champions #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9218425.jpg?1675425711,2016-10-05,4.99,2,4,1,1
+82,Champions #1 Marvel Collector Corps Exclusive Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6866292.jpg?1675425711,2016-10-05,3.99,2,4,1,1
+83,Champions #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4291482.jpg?1604101431,2016-11-02,3.99,2,4,1,1
+84,Champions #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5756044.jpg?1604101751,2016-12-07,3.99,2,4,1,1
+85,Champions #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7384900.jpg?1675425805,2017-01-04,3.99,2,4,1,1
+86,Champions #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8354758.jpg?1675425844,2017-02-01,3.99,2,4,1,1
+87,Champions #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4677676.jpg?1676721343,2017-03-01,3.99,2,4,1,1
+88,Civil War TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3329025.jpg?1693525530,2007-04-11,,2,22,3,2
+89,Civil War II #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8355379.jpg?1647907316,2016-06-01,5.99,2,2,1,2
+90,Civil War II #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5431799.jpg?1629682576,2016-06-15,4.99,2,2,1,2
+91,Civil War II #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1501083.jpg?1644683695,2016-07-13,4.99,2,2,1,2
+92,Civil War II #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6747354.jpg?1622675414,2016-07-27,4.99,2,2,1,2
+93,Civil War II #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4942646.jpg?1661291847,2016-09-21,4.99,2,2,1,2
+94,Civil War II #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1951474.jpg?1687198297,2016-10-26,4.99,2,2,1,2
+95,Civil War II #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8641183.jpg?1622676127,2016-11-23,4.99,2,2,1,2
+96,Civil War II #8,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3791378.jpg?1661337692,2016-12-28,4.99,2,2,1,2
+97,Civil War II: Amazing Spider-Man #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8830328.jpg?1691976290,2016-06-08,3.99,2,23,1,2
+98,Civil War II: Amazing Spider-Man #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5408043.jpg?1662739306,2016-07-13,3.99,2,23,1,2
+99,Civil War II: Amazing Spider-Man #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2253016.jpg?1662737833,2016-08-17,3.99,2,23,1,1
+100,Civil War II: Amazing Spider-Man #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7949226.jpg?1662737857,2016-09-14,3.99,2,23,1,1
+101,Civil War II: Choosing Sides #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7157799.jpg?1652178589,2016-06-22,4.99,2,24,1,1
+102,Civil War II: Choosing Sides #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6304190.jpg?1679440545,2016-07-13,3.99,2,25,1,1
+103,Civil War II: Choosing Sides #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9948433.jpg?1623712382,2016-07-27,3.99,2,26,1,1
+104,Civil War II: Choosing Sides #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9780761.jpg?1623712232,2016-08-17,3.99,2,27,1,1
+105,Civil War II: Choosing Sides #5 Alpha Flight Team-Up Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5858916.jpg?1623712069,2016-08-31,3.99,2,28,1,1
+106,Civil War II: Choosing Sides #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1039144.jpg?1623712179,2016-09-21,3.99,2,29,1,1
+107,Civil War II: Gods of War #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8994565.jpg?1623703731,2016-06-08,3.99,2,30,1,2
+108,Civil War II: Gods of War #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5401463.jpg?1623703755,2016-07-13,3.99,2,30,1,2
+109,Civil War II: Gods of War #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4617606.jpg?1664735738,2016-08-17,3.99,2,30,1,1
+110,Civil War II: Gods of War #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5006075.jpg?1623703797,2016-09-14,3.99,2,30,1,1
+111,Civil War II: The Fallen #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4800904.jpg?1681482437,2016-08-17,4.99,2,31,1,1
+112,Civil War II: The Oath #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9094851.jpg?1686496133,2017-01-25,4.99,2,9,1,1
+113,Civil War II: Ulysses #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1255520.jpg?1597445708,2016-08-24,4.99,2,32,1,1
+114,Civil War II: Ulysses #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1412106.jpg?1597445787,2016-09-14,4.99,2,32,1,1
+115,Civil War II: Ulysses #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6502845.jpg?1597445881,2016-10-12,4.99,2,32,1,1
+116,Civil War II: X-Men #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8434925.jpg?1623704381,2016-06-15,3.99,2,33,1,2
+117,Civil War II: X-Men #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4893807.jpg?1623704781,2016-07-06,3.99,2,33,1,1
+118,Civil War II: X-Men #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6133367.jpg?1623706738,2016-08-17,3.99,2,33,1,1
+119,Civil War II: X-Men #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4836406.jpg?1623707066,2016-09-21,3.99,2,33,1,1
+120,Daredevil and The Punisher: Child's Play TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4340199.jpg?1537120559,1988-01-01,,2,14,3,1
+121,Daredevil: Born Again TP 2nd Edition 3rd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5639885.jpg?1666479710,2012-01-01,,2,14,3,1
+122,Dark Knight Returns: The Last Crusade #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3045262.jpg?1666950771,2016-06-15,6.99,1,34,1,1
+123,Dawn of X Vol. 1 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9183604.jpg?1689973217,2020-02-12,32.99,2,35,3,1
+124,Dawn of X Vol. 2 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3336181.jpg?1689973620,2020-02-26,23.99,2,36,3,1
+125,Dawn of X Vol. 3 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6233714.jpg?1645810182,2020-03-11,23.99,2,35,3,1
+126,Dawn of X Vol. 4 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8499685.jpg?1645810436,2020-03-25,23.99,2,35,3,1
+127,Dawn of X Vol. 5 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1557941.jpg?1645810480,2020-06-17,23.99,2,36,3,1
+128,Dawn of X Vol. 6 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5621392.jpg?1645810606,2020-07-01,23.99,2,35,3,1
+129,Dawn of X Vol. 7 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2771067.jpg?1645810727,2020-08-26,22.99,2,36,3,1
+130,Dawn of X Vol. 8 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4649758.jpg?1645810923,2020-10-07,22.99,2,36,3,1
+131,Dawn of X Vol. 9 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7709944.jpg?1645811023,2020-10-28,22.99,2,35,3,1
+132,Dawn of X Vol. 10 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7104404.jpg?1645811274,2020-11-11,22.99,2,37,3,1
+133,Dawn of X Vol. 11 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4277972.jpg?1645811357,2021-01-20,22.99,2,37,3,1
+134,Dawn of X Vol. 12 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5913927.jpg?1645811401,2021-02-03,22.99,2,37,3,1
+135,Dawn of X Vol. 13 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2766968.jpg?1645811487,2021-02-17,22.99,2,36,3,1
+136,Dawn of X Vol. 14 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7501919.jpg?1645811561,2021-03-17,22.99,2,37,3,1
+137,Dawn of X Vol. 15 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3059569.jpg?1645811700,2021-04-21,22.99,2,35,3,1
+138,Dawn of X Vol. 16 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2051759.jpg?1645811756,2021-05-26,22.99,2,38,3,1
+139,DC Universe: Rebirth #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2728260.jpg?1690354653,2016-05-25,2.99,1,1,1,1
+140,Dead No More: The Clone Conspiracy #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8792848.jpg?1695695026,2016-10-12,4.99,2,7,1,1
+141,Dead No More: The Clone Conspiracy #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3745735.jpg?1695695041,2016-11-09,3.99,2,7,1,1
+142,Dead No More: The Clone Conspiracy #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1314767.jpg?1695695196,2016-12-07,3.99,2,7,1,1
+143,Dead No More: The Clone Conspiracy #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5899428.jpg?1695695385,2017-01-18,3.99,2,7,1,1
+144,Dead No More: The Clone Conspiracy #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3369149.jpg?1695695502,2017-02-15,3.99,2,7,1,1
+145,Deadpool by Daniel Way: The Complete Collection Vol. 1 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1295125.jpg?1654000558,2013-07-17,,2,39,3,1
+146,Deadpool & Cable: Split Second TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8948330.jpg?1594064115,2016-04-20,16.99,2,18,3,2
+147,Deadpool Kills the Marvel Universe TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5692265.jpg?1683958148,2012-10-31,,2,33,3,2
+148,Deadpool vs. X-Force TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8658787.jpg?1415151304,2014-11-05,15.99,2,40,3,1
+149,Death of Wolverine HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1710691.jpg?1589686379,2015-01-07,27.99,2,41,5,1
+150,Death of X TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9822760.jpg?1689427085,2017-03-01,23.99,2,42,3,1
+151,Death: The High Cost of Living TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4728014.jpg?1697309599,1994-06-01,,3,43,3,1
+152,Detective Comics #1000 Midnight Release Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1483595.jpg?1684619075,2019-03-27,9.99,1,44,1,1
+153,Detective Comics #1027 Jim Lee Batman & Superman Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9988055.jpg?1697252525,2020-09-15,9.99,1,15,1,1
+154,Doctor Strange and the Sorcerers Supreme #1 Marvel Collector Corps Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5659610.jpg?1697422784,2016-10-26,,2,45,1,1
+155,Doomsday Clock Part 1 HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2691786.jpg?1690413118,2019-10-02,16.5,1,1,5,1
+156,Doomsday Clock Part 2 HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7264777.jpg?1690413123,2020-06-16,16.5,1,1,5,1
+157,Empyre TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7419798.jpg?1692220623,2020-10-28,49.99,2,32,3,1
+158,Empyre: X-Men TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4118904.jpg?1689778713,2020-11-04,22.99,2,11,3,1
+159,Fantastic Four Vol. 1: Fourever TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1491360.jpg?1674017565,2019-03-06,15.99,2,7,3,2
+160,FF Vol. 1 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5773365.jpg?1677035090,2012-02-29,15.99,2,11,3,1
+161,The Flash #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8483700.jpg?1693714185,2016-07-13,2.99,1,46,1,1
+162,The Flash #1 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7923177.jpg?1693714146,2016-07-20,2.99,1,46,1,1
+163,The Flash #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6354829.jpg?1693714253,2016-07-27,2.99,1,46,1,1
+164,The Flash #4 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4066740.jpg?1693714315,2016-08-10,2.99,1,46,1,1
+165,The Flash #5 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2879617.jpg?1693793293,2016-08-24,2.99,1,46,1,1
+166,The Flash #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1145533.jpg?1693403680,2016-09-14,2.99,1,46,1,1
+167,The Flash #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8634087.jpg?1693714524,2016-09-28,2.99,1,46,1,1
+168,The Flash #8 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1624649.jpg?1693714574,2016-10-12,2.99,1,46,1,1
+169,The Flash #9 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1709615.jpg?1695012726,2016-10-26,2.99,1,46,1,1
+170,The Flash #21,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7230018.jpg?1696068986,2017-04-26,3.99,1,46,1,1
+171,The Flash #22,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5484389.jpg?1696069003,2017-05-17,3.99,1,46,1,1
+172,The Flash: Rebirth #1 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8692250.jpg?1693714082,2016-07-06,2.99,1,46,1,1
+173,Generation X #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8270489.jpg?1679701749,2017-05-17,,2,29,1,2
+174,Green Lantern: The Sinestro Corps War Vol. 1 HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7963908.jpg?1696226205,2008-02-20,,1,1,5,1
+175,House of M #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1267728.jpg?1693935582,2005-06-01,,2,2,1,1
+176,House of M #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9333222.jpg?1685822345,2005-06-22,,2,2,1,1
+177,House of M #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3557622.jpg?1693356261,2005-07-06,,2,2,1,1
+178,House of M #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6595526.jpg?1685822430,2005-07-20,,2,2,1,1
+179,House of M #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8558211.jpg?1693918863,2005-08-10,,2,2,1,1
+180,House of M #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3733918.jpg?1685821769,2005-09-07,,2,2,1,1
+181,House of M #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2992579.jpg?1685822491,2005-10-12,,2,2,1,1
+182,House of M #8,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7401556.jpg?1685822860,2005-11-02,,2,2,1,1
+183,House of X #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4678747.jpg?1697043624,2019-07-24,,2,11,1,2
+184,House of X #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5604042.jpg?1689959939,2019-08-07,,2,11,1,2
+185,House of X #2 1:10 Mike Huddleston Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4230159.jpg?1689959939,2019-08-07,4.99,2,11,1,1
+186,House of X #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2523615.jpg?1689960425,2019-08-28,,2,11,1,2
+187,House of X #3 Skottie Young Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8130218.jpg?1689960425,2019-08-28,4.99,2,11,1,1
+188,House of X #1 3rd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4167605.jpg?1686108846,2019-09-04,5.99,2,11,1,1
+189,House of X #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5247981.jpg?1689963211,2019-09-04,,2,11,1,2
+190,House of X #4 Sara Pichelli and Dean White Flower Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8948610.jpg?1689977611,2019-09-04,4.99,2,11,1,1
+191,House of X #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5751434.jpg?1689963418,2019-09-18,,2,11,1,2
+192,House of X #5 Pichelli Flower Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2389648.jpg?1689963418,2019-09-18,4.99,2,11,1,1
+193,House of X #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4528857.jpg?1689963677,2019-10-02,,2,11,1,2
+194,House of X #6 Sara Pichelli Flower Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8578867.jpg?1689978077,2019-10-02,4.99,2,11,1,1
+195,House of X / Powers of X HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6272769.jpg?1689967091,2019-12-11,76,2,11,5,1
+196,Iceman #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7968198.jpg?1673278427,2017-06-07,,2,47,1,2
+197,Infamous Iron Man #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3016653.jpg?1675865304,2016-10-19,3.99,2,2,1,1
+198,Infinity TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9655450.jpg?1676479687,2014-09-03,,2,11,3,2
+199,Inhumans vs. X-Men #1 Collector Corps Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3324337.jpg?1685575623,2017-02-15,,2,42,1,1
+200,Invincible Compendium Vol. 1 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7227047.jpg?1621189270,2011-08-17,57.24,4,48,6,1
+201,Invincible Compendium Vol. 2 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2905861.jpg?1667576074,2013-08-14,64.99,4,48,6,1
+202,Invincible Compendium Vol. 3 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6124511.jpg?1531633664,2018-07-24,64.99,4,48,6,1
+203,Invincible Iron Man #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5271339.jpg?1667145585,2016-11-09,3.99,2,2,1,1
+204,Invincible Iron Man #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2891010.jpg?1667145596,2016-12-21,3.99,2,2,1,1
+205,Invincible Iron Man #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4191664.jpg?1667146357,2017-01-18,3.99,2,2,1,1
+206,Invincible Iron Man #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1372419.jpg?1667150383,2017-02-15,3.99,2,2,1,1
+207,Invincible Iron Man #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2130033.jpg?1667150543,2017-03-22,3.99,2,2,1,1
+208,Invincible Iron Man #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2143134.jpg?1667189161,2017-04-19,3.99,2,2,1,1
+209,Jean Grey #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9333879.jpg?1679755228,2017-05-03,,2,49,1,2
+210,Justice League #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8621759.jpg?1692046669,2016-07-20,2.99,1,50,1,1
+211,Justice League #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6472262.jpg?1692043835,2016-08-03,2.99,1,50,1,1
+212,Justice League #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6516215.jpg?1692043773,2016-08-17,2.99,1,50,1,1
+213,Justice League #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7347388.jpg?1692046703,2016-09-07,2.99,1,50,1,1
+214,Justice League #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6094902.jpg?1692046714,2016-09-21,2.99,1,50,1,1
+215,Justice League #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2820175.jpg?1694400150,2016-10-05,2.99,1,50,1,1
+216,Justice League of America: Hereby Elects TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5338938.jpg?1585360864,2006-12-20,14.99,1,51,3,1
+217,Justice League: Rebirth #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2607021.jpg?1692046840,2016-07-06,2.99,1,50,1,1
+218,Absolute Kingdom Come (New Edition),https://s3.amazonaws.com/comicgeeks/comics/covers/large-2874908.jpg?1675053804,2018-10-10,99.23,1,4,4,1
+219,Marvel Comics #1000 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7939250.jpg?1695873297,2019-10-02,9.99,2,32,1,1
+220,Marvel's Spider-Man: City at War TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9348776.jpg?1668882520,2019-10-16,25.99,2,49,1,1
+221,Marvel's Spider-Man: The Black Cat Strikes TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8976506.jpg?1603181657,2020-09-16,21.99,2,49,1,1
+222,Marvel's Spider-Man: Velocity TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8348095.jpg?1596467328,2020-02-19,20.99,2,49,1,1
+223,Nightwing #1 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6256225.jpg?1694467387,2016-07-27,2.99,1,52,1,1
+224,Nightwing #2 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5548738.jpg?1694467512,2016-08-03,2.99,1,52,1,1
+225,Nightwing #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8600458.jpg?1694453271,2016-08-17,2.99,1,52,1,1
+226,Nightwing #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6616748.jpg?1694453403,2016-09-07,2.99,1,52,1,1
+227,Nightwing #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5629035.jpg?1696068252,2016-09-21,2.99,1,52,1,1
+228,Nightwing #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8367602.jpg?1696068267,2016-10-05,2.99,1,52,1,1
+229,Nightwing #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8983972.jpg?1694490026,2016-10-19,2.99,1,52,1,1
+230,Nightwing #8,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1494155.jpg?1694490125,2016-11-02,2.99,1,52,1,1
+231,Nightwing #9,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7360792.jpg?1690836442,2016-11-16,2.99,1,52,1,1
+232,Nightwing: Rebirth #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3525060.jpg?1694452676,2016-07-13,2.99,1,52,1,1
+233,Planet-Size X-Men #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4788224.jpg?1689784049,2021-06-16,4.99,2,36,1,1
+234,Powers of X #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4517621.jpg?1696038289,2019-07-31,,2,11,1,2
+235,Powers of X #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5944399.jpg?1689965160,2019-08-14,,2,11,1,2
+236,Powers of X #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4309479.jpg?1689966905,2019-08-21,,2,11,1,2
+237,Powers of X #3 Dustin Weaver New Character Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6091244.jpg?1689966905,2019-08-21,4.99,2,11,1,1
+238,Powers of X #2 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1262383.jpg?1689965160,2019-08-28,4.99,2,11,1,1
+239,Powers of X #1 3rd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7821929.jpg?1696038289,2019-09-04,5.99,2,11,1,1
+240,Powers of X #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2452041.jpg?1689965682,2019-09-11,,2,11,1,2
+241,Powers of X #4 Weaver New Character Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3263259.jpg?1689965682,2019-09-11,4.99,2,11,1,1
+242,Powers of X #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4695315.jpg?1689965944,2019-09-25,,2,11,1,2
+243,Powers of X #5 Valerio Schiti Character Decades Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2703878.jpg?1689965944,2019-09-25,,2,11,1,1
+244,Powers of X #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5740816.jpg?1689966376,2019-10-09,5.99,2,11,1,2
+245,The Rise of Apocalypse #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7406825.jpg?1666880943,1996-10-01,,2,53,1,1
+246,Savage Wolverine #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7667301.jpg?1626541840,2013-01-16,3.99,2,54,1,1
+247,Savage Wolverine #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5295678.jpg?1645137570,2013-02-20,3.99,2,54,1,1
+248,Savage Wolverine #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7494145.jpg?1626654799,2013-03-20,3.99,2,54,1,1
+249,Savage Wolverine #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4402155.jpg?1626654954,2013-04-17,3.99,2,54,1,1
+250,Savage Wolverine #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1038275.jpg?1645137573,2013-05-29,3.99,2,54,1,1
+251,Secret Empire #0,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5434364.jpg?1688351989,2017-04-19,4.99,2,9,1,1
+252,Secret Empire #0 Marvel Collector Corps Guardians of the Galaxy Vol. 2 Box Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4059197.jpg?1688351989,2017-04-19,4.99,2,9,1,1
+253,Secret Empire #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8139165.jpg?1688037500,2017-05-03,4.99,2,9,1,1
+254,Secret Empire #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7298155.jpg?1688038239,2017-05-17,4.99,2,9,1,1
+255,Secret Empire #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5673522.jpg?1688038439,2017-05-31,3.99,2,9,1,1
+256,Secret Empire #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4237285.jpg?1688038781,2017-06-14,3.99,2,9,1,1
+257,Secret Empire #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1142171.jpg?1688041987,2017-06-28,3.99,2,9,1,1
+258,Secret Wars TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6793940.jpg?1691919226,2016-09-20,,2,11,3,2
+259,Spider-Geddon #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5933629.jpg?1686491006,2018-10-10,3.99,2,7,1,2
+260,Spider-Man By Roger Stern Omnibus HC 2021 Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8569352.jpg?1642236714,2021-04-21,157,2,55,2,1
+261,Spider-Man: Kraven's Last Hunt TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4159904.jpg?1681974861,2008-09-10,15.75,2,56,3,1
+262,Spider-Man: Life Story Panini TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9452870.jpg?1683392465,2020-01-06,32.99,5,57,3,1
+263,Spider-Man: Miles Morales Omnibus HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3320982.jpg?1688675989,2020-02-12,127,2,2,2,1
+264,Spider-Men TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2748294.jpg?1641121271,2013-05-08,21.99,2,2,3,1
+265,Star Wars: Darth Vader Vol. 1 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2003374.jpg?1674017704,2015-10-07,21.99,2,58,3,1
+266,Star Wars: The Rise of Kylo Ren #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9159761.jpg?1651088847,2019-12-18,4.99,2,41,1,2
+267,Star Wars: The Rise of Kylo Ren #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7771077.jpg?1651089012,2020-01-08,3.99,2,41,1,2
+268,Star Wars: The Rise of Kylo Ren #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7498357.jpg?1651089163,2020-02-12,3.99,2,41,1,2
+269,Star Wars: The Rise of Kylo Ren #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3017630.jpg?1651089458,2020-03-11,3.99,2,41,1,2
+270,Suicide Squad: Rebirth #1 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7433937.jpg?1695161725,2016-08-03,2.99,1,59,1,1
+271,Superman #1 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4390169.jpg?1692122836,2016-06-15,2.99,1,44,1,1
+272,Superman #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2331775.jpg?1692123104,2016-07-06,2.99,1,44,1,1
+273,Superman #3 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1658967.jpg?1692123426,2016-07-20,2.99,1,44,1,1
+274,Superman #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4272707.jpg?1692123498,2016-08-03,2.99,1,44,1,1
+275,Superman #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3099513.jpg?1692123662,2016-08-17,2.99,1,44,1,1
+276,Superman #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7687349.jpg?1692123333,2016-09-07,2.99,1,44,1,1
+277,Superman #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4623983.jpg?1692123771,2016-09-21,2.99,1,44,1,1
+278,Superman #8,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5889784.jpg?1692124716,2016-10-05,2.99,1,44,1,1
+279,Superman #9 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3821858.jpg?1692139232,2016-10-19,2.99,1,44,1,1
+280,Superman: Rebirth #1 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4636741.jpg?1692122389,2016-06-29,2.99,1,44,1,1
+281,Superman: The Death of Superman TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6391382.jpg?1695547580,1993-01-01,4.95,1,60,3,1
+282,Teen Titans: Rebirth #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2074562.jpg?1695158748,2016-09-28,2.99,1,38,1,1
+283,Thanos: Thanos Wins TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5848660.jpg?1685125558,2018-06-27,,2,58,3,2
+284,Timely Comics All New All Different Avengers #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3582175.jpg?1465883321,2016-06-01,3,2,4,1,1
+285,Timely Comics Doctor Strange #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6542017.jpg?1465716160,2016-06-08,3,2,61,1,1
+286,Timely Comics Invincible Iron Man #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8278844.jpg?1471221318,2016-06-15,3,2,2,1,1
+287,Timely Comics New Avengers #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9324863.jpg?1471221464,2016-06-15,3,2,32,1,1
+288,Titans: Rebirth #1 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3576991.jpg?1694402025,2016-07-13,2.99,1,30,1,1
+289,True Believers: All-New Wolverine #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7909944.jpg?1603165599,2017-02-22,1,2,3,1,1
+290,True Believers: House of M #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1658841.jpg?1497805001,2015-04-15,1,2,2,1,1
+291,True Believers: Miles Morales #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9038097.jpg?1509633715,2015-04-29,1,2,2,1,1
+292,Ultimate Spider-Man: Ultimate Collection Vol. 1 TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9601346.jpg?1696263849,2007-03-14,,2,2,3,2
+293,Uncanny X-Force By Rick Remender Omnibus HC 2020 Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8987853.jpg?1620605813,2020-03-04,127,2,62,2,1
+294,Uncanny X-Men Omnibus Vol. 3 HC 2021 Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9514584.jpg?1696723618,2021-01-06,157,2,63,2,1
+295,X-Men by Chris Claremont & Jim Lee Omnibus Vol. 2 HC 2021 Printing DM Variant,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5029245.jpg?1644142247,2021-03-10,157,2,63,2,1
+296,The Vision HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2094904.jpg?1691701923,2018-01-23,50.43,2,12,5,2
+297,Watchmen: The Deluxe Edition HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7225991.jpg?1610028981,2013-05-29,44.66,1,64,5,1
+298,Weapon X #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7192424.jpg?1559304529,2017-04-12,3.99,2,31,1,2
+299,Weapon X #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1679552.jpg?1602473026,2017-04-26,3.99,2,31,1,1
+300,Weapon X #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8549165.jpg?1602473084,2017-05-10,3.99,2,31,1,1
+301,Weapon X #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1142031.jpg?1626998933,2017-06-14,3.99,2,31,1,1
+302,Weapons of Mutant Destruction: Alpha #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4349338.jpg?1626997402,2017-06-21,4.99,2,31,1,1
+303,Wonder Woman #2 Variant Edition,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9416947.jpg?1696003639,2016-07-13,2.99,1,65,1,1
+304,Wonder Woman #1 2nd Printing,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9322051.jpg?1696003556,2016-07-20,2.99,1,65,1,1
+305,Wonder Woman #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6554100.jpg?1696003721,2016-07-27,2.99,1,65,1,1
+306,Wonder Woman #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2765521.jpg?1696003801,2016-08-10,2.99,1,65,1,1
+307,Wonder Woman #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3627786.jpg?1696003950,2016-08-24,2.99,1,65,1,1
+308,Wonder Woman #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6923976.jpg?1696003997,2016-09-14,2.99,1,65,1,1
+309,Wonder Woman #7,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4505270.jpg?1696006487,2016-09-28,2.99,1,65,1,1
+310,Wonder Woman #8,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1404214.jpg?1696006607,2016-10-12,2.99,1,65,1,1
+311,Wonder Woman #9,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8458465.jpg?1696006670,2016-10-26,2.99,1,65,1,1
+312,Wonder Woman #11,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6461436.jpg?1696007919,2016-11-23,2.99,1,65,1,1
+313,Wonder Woman: Rebirth #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5167381.jpg?1694397438,2016-06-08,2.99,1,65,1,1
+314,X of Swords HC,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3412992.jpg?1689783505,2021-03-03,125,2,37,5,1
+315,X-Men / Fantastic Four: 4X TP,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6032456.jpg?1685872454,2020-09-16,21.99,2,57,3,1
+316,X-Men: Blue #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9587043.jpg?1688617279,2017-04-12,4.99,2,33,1,2
+317,X-Men: Blue #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5571741.jpg?1629757253,2017-04-26,3.99,2,33,1,1
+318,X-Men: Blue #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5993870.jpg?1638630252,2017-05-10,3.99,2,33,1,1
+319,X-Men: Blue #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6859794.jpg?1685281282,2017-05-24,3.99,2,33,1,1
+320,X-Men: Blue #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-8040073.jpg?1629769153,2017-06-14,3.99,2,33,1,1
+321,X-Men: Blue #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-9527404.jpg?1690906120,2017-06-28,3.99,2,33,1,1
+322,"X-Men: God Loves, Man Kills 2nd Printing",https://s3.amazonaws.com/comicgeeks/comics/covers/large-8499087.jpg?1691526434,2011-04-27,16.5,2,63,3,1
+323,X-Men: Gold #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-3253604.jpg?1623825975,2017-04-05,4.99,2,66,1,2
+324,X-Men: Gold #2,https://s3.amazonaws.com/comicgeeks/comics/covers/large-4040000.jpg?1688416101,2017-04-26,3.99,2,66,1,1
+325,X-Men: Gold #3,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2821146.jpg?1688416198,2017-05-03,3.99,2,66,1,1
+326,X-Men: Gold #4,https://s3.amazonaws.com/comicgeeks/comics/covers/large-2410060.jpg?1623883084,2017-05-17,3.99,2,66,1,1
+327,X-Men: Gold #5,https://s3.amazonaws.com/comicgeeks/comics/covers/large-7855651.jpg?1623879921,2017-06-07,3.99,2,66,1,1
+328,X-Men: Gold #6,https://s3.amazonaws.com/comicgeeks/comics/covers/large-1050075.jpg?1674185074,2017-06-21,3.99,2,66,1,1
+329,X-Men: Prime #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-6696704.jpg?1619303996,2017-03-29,4.99,2,33,1,1
+330,A Year of Marvels: The Amazing #1,https://s3.amazonaws.com/comicgeeks/comics/covers/large-5261816.jpg?1615406909,2016-04-27,4.99,2,67,1,1

@@ -1,2 +1,24 @@
-<h1>Comics#index</h1>
-<p>Find me in app/views/comics/index.html.erb</p>
+<h1>Comic Collection</h1>
+<br/>
+<%= paginate @comics %>
+
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th scrope="col">ID</th>
+      <th scope="col">Title</th>
+      <th scope="col">Cover</th>
+      <th scope="col">Date Released</th>
+    </tr>
+    <tbody class="table-group-divider">
+      <% @comics.each do |comic| %>
+        <tr>
+          <td><%= comic.id %></td>
+          <td><%= link_to comic.title, comic %></td>
+          <td><%= image_tag comic.image_cover, alt: "Comic Cover", class: "comic-img-index" %></td>
+          <td><%= comic.release_date %></td>
+        </tr>
+      <% end %>
+    </tbody>
+  </thead>
+</table>
