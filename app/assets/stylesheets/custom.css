@@ -4,6 +4,14 @@
 }
 
 .comic-img-show {
-  width: 300px;
+  width: 700px;
   height: auto;
+}
+
+.comic-title {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.comic-details {
+  font-family: 'Unbounded', sans-serif;
 }

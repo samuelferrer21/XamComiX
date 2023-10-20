@@ -4,16 +4,18 @@
       <%= image_tag @comic.image_cover, alt: "Comic Cover", class: "comic-img-show" %>
     </div>
     <div class="col">
-      <h1><%= @comic.title %></h1>
-      <h3>By <%= @comic.writer.first_name + " " + @comic.writer.last_name %></h3>
-      <p>Released: <%= @comic.release_date.strftime('%B %d, %Y') %></p>
-      <p>Published by: <%= @comic.publisher.name %></p>
-      <% if @comic.cover_price.nil? %>
-        <p><em>n/a</em></p>
-      <% else %>
-        <p>$<%= @comic.cover_price %></p>
-      <% end %>
-      <p><%= @comic.edition.edition %> - <%= @comic.format.format %></p>
+      <h1 class="comic-title"><%= @comic.title %></h1>
+      <div class="container text-center comic-details">
+        <h3>By <%= @comic.writer.first_name + " " + @comic.writer.last_name %></h3>
+        <p>Released: <%= @comic.release_date.strftime('%B %d, %Y') %></p>
+        <p>Published by: <%= @comic.publisher.name %></p>
+        <% if @comic.cover_price.nil? %>
+          <p><em>n/a</em></p>
+        <% else %>
+          <p>$<%= @comic.cover_price %></p>
+        <% end %>
+        <p><%= @comic.edition.edition %> - <%= @comic.format.format %></p>
+      </div>
     </div>
   </div>
 </div>
