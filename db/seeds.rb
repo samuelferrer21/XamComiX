@@ -71,7 +71,9 @@ edition.each do |p|
   next if comic_edition&.valid?
 
   edition_table = Edition.create(
-    edition:    p["edition"]
+    edition:     p["edition"],
+    image:       p["image"],
+    description: p["description"]
   )
 end
 
