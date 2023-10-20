@@ -1,7 +1,7 @@
 <%# Publisher Company Logo %>
 <div class="container text-center">
   <% if @publisher.id == 1 || @publisher.id == 2 %>
-    <img src="<%= @publisher.logo %>" width="330px" height="330px" class="img-thumbnail"  alt="logo">
+    <img src="<%= @publisher.logo %>" width="330" height="330" class="img-thumbnail"  alt="logo">
   <% else %>
     <img src="<%= @publisher.logo %>" class="img-thumbnail"  alt="logo">
   <% end %>
@@ -40,8 +40,9 @@
         <th scope="col">Edition</th>
         <th scope="col">Format</th>
       </tr>
-      <tbody class="table-group-divider">
-      <% @comic_result.each do |comic| %>
+  </thead>
+  <tbody class="table-group-divider">
+    <% @comic_result.each do |comic| %>
       <tr>
         <td><%= link_to comic.title, comic %></td>
         <td><%= comic.release_date %></td>
@@ -54,7 +55,6 @@
         <td><%= comic.edition.edition %></td>
         <td><%= comic.format.format %></td>
       </tr>
-      <% end %>
-     </tbody>
-  </thead>
+    <% end %>
+  </tbody>
 </table>

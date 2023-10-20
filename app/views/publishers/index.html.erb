@@ -8,14 +8,14 @@
         <th scope="col">Founded</th>
         <th scope="col"># in Collection</th>
       </tr>
-      <tbody class="table-group-divider">
-      <%@publishers.each do |publisher|%>
-      <tr>
-        <td><%=link_to publisher.name, publisher%></td>
-        <td><%=publisher.founded%></td>
-        <td><%=publisher.comics.count%></td>
-      </tr>
-      <%end%>
-     </tbody>
   </thead>
+  <tbody class="table-group-divider">
+    <% @publishers.each do |publisher| %>
+      <tr>
+        <td><%= link_to publisher.name, publisher %></td>
+        <td><%= publisher.founded %></td>
+        <td><%= publisher.comics.count %></td>
+      </tr>
+    <% end %>
+  </tbody>
 </table>
