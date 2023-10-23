@@ -1,24 +1,30 @@
 <h1>Comic Collection</h1>
+<% if !params['comic_name'].nil?  && !params['comic_name'].blank?%>
+        <p class= "mb-1">
+          You are searching for: <%= params['comic_name']%>
+        </p>
+        <p><%= link_to "Clear Filter", "comics#index" %></p>
+      <% end %>
 <br/>
 <%= paginate @comics %>
 
 <table class="table table-sm">
   <thead>
     <tr>
-      <th scrope="col">ID</th>
+      <th scope="col">ID</th>
       <th scope="col">Title</th>
       <th scope="col">Cover</th>
       <th scope="col">Date Released</th>
     </tr>
-    <tbody class="table-group-divider">
-      <% @comics.each do |comic| %>
-        <tr>
-          <td><%= comic.id %></td>
-          <td><%= link_to comic.title, comic %></td>
-          <td><%= image_tag comic.image_cover, alt: "Comic Cover", class: "comic-img-index" %></td>
-          <td><%= comic.release_date %></td>
-        </tr>
-      <% end %>
-    </tbody>
   </thead>
+  <tbody class="table-group-divider">
+    <% @comics.each do |comic| %>
+      <tr>
+        <td><%= comic.id %></td>
+        <td><%= link_to comic.title, comic %></td>
+        <td><%= image_tag comic.image_cover, alt: "Comic Cover", class: "comic-img-index" %></td>
+        <td><%= comic.release_date %></td>
+      </tr>
+    <% end %>
+  </tbody>
 </table>

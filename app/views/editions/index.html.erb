@@ -1,0 +1,19 @@
+<h1>Editions</h1>
+<p>Comic Collected Editions</p>
+
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th scope="col">Edition</th>
+      <th scope="col"># in Collection</th>
+    </tr>
+  </thead>
+  <tbody class="table-group-divider">
+    <% @editions.each do |edition| %>
+      <tr>
+        <td><%= link_to edition.edition, edition %></td>
+        <td><%= edition.comics.count %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>

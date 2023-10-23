@@ -1,0 +1,34 @@
+<%# Edition Information %>
+<div class="container">
+  <h2><%= @edition.edition %></h2>
+  <img src="<%= @edition.image %>" class="img-thumbnail"  alt="edition image">
+  <br/>
+  <p><%= @edition.description %></p>
+</div>
+
+<div class="col-md-5 float-start"><%= paginate @comics_collected %></div>
+
+<table class="table table-sm">
+  <thead>
+    <tr>
+      <th scope="col">Title</th>
+      <th scope="col">Cover</th>
+      <th scope="col">Release</th>
+      <th scope="col">Format</th>
+    </tr>
+  </thead>
+  <tbody class="table-group-divider">
+    <% @comics_collected.each do |comic| %>
+      <tr>
+        <td><%= link_to comic.title, comic %></td>
+        <td>
+          <a href="<%= comic_path(comic) %>"><%= image_tag comic.image_cover, alt:"comic cover", class: "comic-img-index" %></a>
+        </td>
+        <td><%= comic.release_date %></td>
+        <td><%= comic.format.format %></td>
+      </tr>
+    <% end %>
+  </tbody>
+</table>
+
+<div class="col-md-5 float-start"><%= paginate @comics_collected %></div>

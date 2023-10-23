@@ -2,7 +2,14 @@ class ComicsController < ApplicationController
   # root_path
   def index
     # @comics = Comic.includes(:title).all
-    @comics = Comic.page(params[:page]).per(30)
+
+    @comics = if params[:comic_name].nil?
+                Comic.page(params[:page]).per(30)
+              else
+                Comic.where("title LIKE  '%#{params[:comic_name]}%'").page(params[:page]).per(30)
+              end
+
+    # @comic_result = @comic_result.order("release_date DESC").page(params[:page]).per(30)
   end
 
   # GET /comics/:id

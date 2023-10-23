@@ -15,11 +15,17 @@
         <li class="nav-item">
           <%= link_to "Writers", :writers, class: "nav-link" %>
         </li>
+        <li class="nav-item">
+          <%= link_to "Editions", :editions, class: "nav-link" %>
+        </li>
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Search</button>
-      </form>
+
+
+      <%= form_tag("/search", method: "get") do %>
+        <%= label_tag(:comic_name, "Search For Comic:") %>
+        <%= text_field_tag(:comic_name) %>
+        <%= submit_tag("Search") %>
+      <% end %>
     </div>
   </div>
 </nav>
