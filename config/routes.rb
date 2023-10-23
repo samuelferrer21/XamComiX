@@ -5,7 +5,7 @@ Rails.application.routes.draw do
 
   # Route for About page
   get "comics/about"
-
+  get "search", to: "comics#index"
   get "publishers/index"
   get "publishers/show"
   get "writers/index"

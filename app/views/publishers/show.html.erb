@@ -12,15 +12,15 @@
 <div class="container-md">
   <div class="row">
     <div class="col-md-7">
-      <%= form_tag "/publishers/#{@id}", method: :get do %>
-        <%= select_tag :author_id, options_from_collection_for_select(@writer, 'id', "first_name"),prompt: "Author" %>
-        <%= submit_tag "Search" %>
+      <%= form_tag "/publishers/#{params[:id]}", method: :get do %>
+        <%= select_tag :author_id, options_from_collection_for_select(@writer, 'id', "first_name"), include_blank: "Author" %>
+        <%= submit_tag "Search"%>
       <% end %>
-      <% if !params['author_id'].nil? %>
+      <% if params.has_key?(:author_id) && Writer.exists?(id: params[:author_id])%>
         <p class= "mb-1">
           You are searching for <%= @publisher.name %>
-          written by <%= Writer.find_by(id: params['author_id']).first_name %>
-          <%= Writer.find_by(id: params['author_id']).last_name %>
+          written by <%= @writer_name.first_name %>
+          <%= @writer_name.last_name %>
         </p>
         <p><%= link_to "Clear Filter", "/publishers/#{params[:id]}" %></p>
       <% end %>
