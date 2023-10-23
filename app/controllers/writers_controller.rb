@@ -8,5 +8,6 @@ class WritersController < ApplicationController
   # GET /writers/:id
   def show
     @writer = Writer.find(params[:id])
+    @comic_result = Writer.find(params[:id]).comics.page(params[:page]).per(30)
   end
 end

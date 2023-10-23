@@ -1,12 +1,20 @@
-<h1>Current Writers</h1>
-<p>Writers currently in the collection</p>
+<h1>Writers</h1>
+<p>Writers in the collection</p>
+
 <%= paginate @writers %>
-<div>
-  <ul>
-    <%@writers.each do |writer|%>
-    <li>
-        <%=link_to writer.first_name + " " + writer.last_name, writer%>
-     </li>
-     <%end%>
-  </ul>
-</div>
+<table class="table table-sm">
+  <thead>
+      <tr>
+        <th scope="col">Writer</th>
+        <th scope="col"># of Comics in Collection</th>
+      </tr>
+      <tbody class="table-group-divider">
+       <%@writers.each do |writer|%>
+      <tr>
+        <td><%=link_to writer.first_name + " " + writer.last_name, writer%></td>
+        <td><%=writer.comics.count%></td>
+      </tr>
+      <%end%>
+     </tbody>
+  </thead>
+</table>
