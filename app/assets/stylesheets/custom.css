@@ -4,8 +4,8 @@
 }
 
 .comic-img-show {
-  width: 700px;
-  height: auto;
+  width: auto;
+  height: 600px;
 }
 
 .comic-title {
@@ -14,4 +14,11 @@
 
 .comic-details {
   font-family: 'Unbounded', sans-serif;
+}
+
+.edition-img {
+  width: auto;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
 }
