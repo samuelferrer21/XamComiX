@@ -17,12 +17,14 @@
 
 ## 💻 Recreate this app
 * Clone this repository
-* Open terminal
-  - run: rails db:migrate
-  - run: rails db:seed
-  - run: rails s
+* Open terminal and run...
+  - bundle install
+  - rails db:migrate
+  - rails db:seed
+  - rails s -p <em>[port number]</em>
+    - (choose a specific port number, otherwise just run 'rails s')
 
 ## 💎 Versions/Gem used by this app
 * Rails version: 7.0.8
-* Ruby  version: 3.1.2p20
+* Ruby  version: 3.1.2
 * Added Gem: kaminari (pagination)
