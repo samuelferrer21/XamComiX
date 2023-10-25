@@ -1,12 +1,12 @@
 <%# Edition Information %>
 <div class="container">
-  <h2><%= @edition.edition %></h2>
-  <img src="<%= @edition.image %>" class="img-thumbnail"  alt="edition image">
+  <h1><%= @edition.edition %></h1>
+  <img src="<%= @edition.image %>" class="edition-img"  alt="edition image">
   <br/>
   <p><%= @edition.description %></p>
 </div>
 
-<div class="col-md-5 float-start"><%= paginate @comics_collected %></div>
+<div class="d-flex flex-row-reverse"><%= paginate @comics_collected %></div>
 
 <table class="table table-sm">
   <thead>
@@ -31,4 +31,4 @@
   </tbody>
 </table>
 
-<div class="col-md-5 float-start"><%= paginate @comics_collected %></div>
+<div class="d-flex flex-row-reverse"><%= paginate @comics_collected %></div>
