@@ -1,30 +1,34 @@
 <h1>Comic Collection</h1>
-<% if !params['comic_name'].nil?  && !params['comic_name'].blank?%>
-        <p class= "mb-1">
-          You are searching for: <%= params['comic_name']%>
-        </p>
-        <p><%= link_to "Clear Filter", "comics#index" %></p>
-      <% end %>
+<% if !params['comic_name'].nil?  && !params['comic_name'].blank? %>
+  <p class= "mb-1">
+    You are searching for: <%= params['comic_name']%>
+  </p>
+  <p><%= link_to "Clear Filter", "comics#index" %></p>
+<% end %>
 <br/>
-<%= paginate @comics %>
 
-<table class="table table-sm">
-  <thead>
-    <tr>
-      <th scope="col">ID</th>
-      <th scope="col">Title</th>
-      <th scope="col">Cover</th>
-      <th scope="col">Date Released</th>
-    </tr>
-  </thead>
-  <tbody class="table-group-divider">
-    <% @comics.each do |comic| %>
-      <tr>
-        <td><%= comic.id %></td>
-        <td><%= link_to comic.title, comic %></td>
-        <td><%= image_tag comic.image_cover, alt: "Comic Cover", class: "comic-img-index" %></td>
-        <td><%= comic.release_date %></td>
-      </tr>
-    <% end %>
-  </tbody>
-</table>
+<div class="d-flex flex-row-reverse">
+  <%= paginate @comics %>
+</div>
+
+<div class="row row-cols-1 row-cols-sm-5 g-4">
+  <% @comics.each do |comic| %>
+  <div class="col">
+    <div class="card">
+      <a href="<%= comic_path(comic) %>">
+        <%= image_tag comic.image_cover, alt:"comic cover", class: "card-img-top" %>
+      </a>
+      <div class="card-body">
+        <h4 class="card-title"><%= link_to comic.title, comic %></h4>
+        <h5><%= comic.publisher.name %><br/></h5>
+        <p class="card-text"><%= comic.release_date.strftime('%B %d, %Y') %></p>
+      </div>
+    </div>
+  </div>
+  <% end %>
+</div>
+<br/>
+
+<div class="d-flex flex-row-reverse">
+  <%= paginate @comics %>
+</div>
